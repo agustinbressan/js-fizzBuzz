@@ -1,0 +1,13 @@
+{
+  "name": "fizzbuzz",
+  "version": "1.0.0",
+  "description": "The FizzBuzz function in js using tdd.",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^27.5.1"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
